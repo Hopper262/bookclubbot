@@ -1,0 +1,11 @@
+USER=bookclubbot
+GROUP=bookclubbot
+DEVMODE=0
+EMAILTO=errors.go.here@example.com
+EMAILFROM=bot.address@example.com
+EMAILSUBJECT="Error from bookclubbot"
+DBUSER=username
+DBPASSWORD=password
+DBHOST=localhost
+DB=bookclubbot
+TOKEN=token
